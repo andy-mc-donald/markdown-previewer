@@ -1,4 +1,4 @@
-# Markdown Previewer
+# [Markdown Previewer](https://andy-mc-donald.github.io/markdown-previewer/)
 
 ![Markdown previewer screenshot](markdown-previewer.png)
 
