@@ -5,6 +5,7 @@
 [FreeCodeCamp Front End Libraries Project #2](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer), built using:
 
 * React
+* [Marked.js](https://www.npmjs.com/package/marked)
 * JavaScript
 * CSS 
 * HTML
